@@ -4,7 +4,7 @@ A simple .bat script to automate the process of opening Visual Studio Code for b
 
 ## Overview
 
-As a Fullstack Developer and Frontend Team Lead, managing multiple projects and tasks can be time-consuming, especially when it involves repetitive setup tasks. This script aims to streamline the development workflow by automating the following steps:
+As a Developer , managing multiple projects and tasks can be time-consuming, especially when it involves repetitive setup tasks. This script aims to streamline the development workflow by automating the following steps:
 
 - Opening VSCode for frontend and backend projects.
 - Navigating to the project directories.
