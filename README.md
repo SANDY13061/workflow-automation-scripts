@@ -42,11 +42,9 @@ Double-click the start_projects.bat file to execute the script. This will open V
 - Increases Productivity: Focus on coding rather than repetitive setup tasks.
 - Reduces Errors: Ensures consistent startup processes every time.
 
-Contributing
+## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
-For any questions or inquiries, please contact Your Name.
+## Contact
+For any questions or inquiries, please contact me on Linked In (www.linkedin.com/in/santhosh-kumar-1352b8263).
